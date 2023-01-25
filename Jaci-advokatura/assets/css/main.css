@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
-/*
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html,
 body,
@@ -16,7 +12,7 @@ object,
 iframe,
 h1,
 h2,
-h3,
+h3h1
 h4,
 h5,
 h6,
@@ -4171,7 +4167,7 @@ body.is-mobile.landing #footer {
 }
 
 #contact {
-	margin-left: 5%; 
+	margin: auto; 
        max-width: 500px;
 }
 
