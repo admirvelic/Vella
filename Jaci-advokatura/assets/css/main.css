@@ -4171,6 +4171,7 @@ body.is-mobile.landing #footer {
 }
 
 #contact {
-	margin-left: 5%;
+	margin-left: 5%; 
+       max-width: 500px;
 }
 
