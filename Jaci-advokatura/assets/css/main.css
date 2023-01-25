@@ -2944,6 +2944,7 @@ button:disabled,
 @media screen and (max-width: 980px) {
 
 	.wrapper>.inner {
+		padding: 20px;
 		width: 100%;
 	}
 
